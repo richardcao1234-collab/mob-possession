@@ -56,17 +56,17 @@ Minecraft Java 26.2 中注册的 **90 种 Mob 均可附身**。苦力怕、末�
 
 ## 版本选择
 
-| Minecraft | 推荐文件 | Fabric Loader | Java |
+| Minecraft | 直接下载 | Fabric Loader | Java |
 |---|---|---:|---:|
-| 1.21–1.21.1 | `mob-possession-1.21-1.0.5.jar` | 0.16+ | 21+ |
-| 1.21.2–1.21.3 | `mob-possession-1.21.2-1.0.5.jar` | 0.16+ | 21+ |
-| 1.21.4 | `mob-possession-1.21.4-1.0.5.jar` | 0.16+ | 21+ |
-| 1.21.5 | `mob-possession-1.21.5-1.0.5.jar` | 0.16+ | 21+ |
-| 1.21.6–1.21.8 | `mob-possession-1.21.8-1.0.5.jar` | 0.16+ | 21+ |
-| 1.21.9–1.21.10 | `mob-possession-1.21.9-1.0.5.jar` | 0.16+ | 21+ |
-| 1.21.11 | `mob-possession-1.21.11-1.0.5.jar` | 0.16+ | 21+ |
-| 26.1 | `mob-possession-26.1-1.0.5.jar` | 0.19.3+ | 25+ |
-| 26.2 | `mob-possession-26.2-1.0.5.jar` | 0.19.3+ | 25+ |
+| 1.21–1.21.1 | [`mob-possession-1.21-1.0.5.jar`](https://github.com/richardcao1234-collab/mob-possession/releases/download/v1.0.5/mob-possession-1.21-1.0.5.jar) | 0.16+ | 21+ |
+| 1.21.2–1.21.3 | [`mob-possession-1.21.2-1.0.5.jar`](https://github.com/richardcao1234-collab/mob-possession/releases/download/v1.0.5/mob-possession-1.21.2-1.0.5.jar) | 0.16+ | 21+ |
+| 1.21.4 | [`mob-possession-1.21.4-1.0.5.jar`](https://github.com/richardcao1234-collab/mob-possession/releases/download/v1.0.5/mob-possession-1.21.4-1.0.5.jar) | 0.16+ | 21+ |
+| 1.21.5 | [`mob-possession-1.21.5-1.0.5.jar`](https://github.com/richardcao1234-collab/mob-possession/releases/download/v1.0.5/mob-possession-1.21.5-1.0.5.jar) | 0.16+ | 21+ |
+| 1.21.6–1.21.8 | [`mob-possession-1.21.8-1.0.5.jar`](https://github.com/richardcao1234-collab/mob-possession/releases/download/v1.0.5/mob-possession-1.21.8-1.0.5.jar) | 0.16+ | 21+ |
+| 1.21.9–1.21.10 | [`mob-possession-1.21.9-1.0.5.jar`](https://github.com/richardcao1234-collab/mob-possession/releases/download/v1.0.5/mob-possession-1.21.9-1.0.5.jar) | 0.16+ | 21+ |
+| 1.21.11 | [`mob-possession-1.21.11-1.0.5.jar`](https://github.com/richardcao1234-collab/mob-possession/releases/download/v1.0.5/mob-possession-1.21.11-1.0.5.jar) | 0.16+ | 21+ |
+| 26.1 | [`mob-possession-26.1-1.0.5.jar`](https://github.com/richardcao1234-collab/mob-possession/releases/download/v1.0.5/mob-possession-26.1-1.0.5.jar) | 0.19.3+ | 25+ |
+| 26.2 | [`mob-possession-26.2-1.0.5.jar`](https://github.com/richardcao1234-collab/mob-possession/releases/download/v1.0.5/mob-possession-26.2-1.0.5.jar) | 0.19.3+ | 25+ |
 
 ## 默认按键
 
