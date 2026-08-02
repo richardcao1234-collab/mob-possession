@@ -192,31 +192,6 @@ Licensed under MPL-2.0.
 - 并非所有生物都有独立的右键或 `G` 能力；没有专用能力的生物仍支持移动和左键攻击。
 - 玩家、盔甲架、人体模型、载具、投射物和展示实体不继承 `Mob`，不属于可附身目标。
 
-## 仓库说明
-
-正式 GitHub 仓库建议采用标准 Fabric Loom 项目结构，并至少包含：
-
-```text
-README.md
-LICENSE
-build.gradle
-settings.gradle
-gradle.properties
-gradlew / gradlew.bat
-gradle/wrapper/
-src/main/java/
-src/main/resources/
-MOB_OPERATIONS_26.2.md
-MOBS_26.2.md
-docs/changelog/
-```
-
-当前工作目录以可运行 JAR、反编译审计结果、字节码补丁工具和说明文档为主，并不是完整的原始 Gradle 源码工程。公开发布前应补齐能够重新构建 `1.0.5` 的完整源码；MPL-2.0 要求分发 JAR 等可执行形式时，同时让接收者可以取得对应的源码，并说明源码获取位置。
-
-同时应避免把 `_decompiled`、`_mc26_audit`、`_verify26`、本地缓存或临时编译产物提交到版本库。
-
-建议通过 GitHub Actions 对每个支持版本进行可复现构建，并在 `v1.0.5` 标签下同时保存对应源码和 Release JAR。
-
 ## 许可证
 
 本项目采用 [Mozilla Public License 2.0](https://www.mozilla.org/MPL/2.0/)，SPDX 标识为 `MPL-2.0`。发布源码时应保留许可证通知；发布 JAR 时应同时说明对应源代码的获取方式。提交第三方代码、资源或衍生内容前，请自行确认许可证兼容性。
