@@ -120,7 +120,7 @@ Minecraft Java 26.2 中注册的 **90 种 Mob 均可附身**。苦力怕、末�
 
 - [Minecraft 26.2 全部 90 种生物操作与功能](MOB_OPERATIONS_26.2.md)
 - [Minecraft 26.2 生物注册表与覆盖审计](MOBS_26.2.md)
-- [修改记录目录](cheekpoint/)
+- [开发变更记录](docs/changelog/)
 
 ## 下载与发布文件
 
@@ -174,7 +174,7 @@ Licensed under MPL-2.0.
 - 首次构建。
 - 添加基础附身、移动、网络同步和生物能力。
 
-详细记录见 [`cheekpoint`](cheekpoint/) 目录。
+详细记录见 [`docs/changelog`](docs/changelog/) 目录。
 
 ## 多人游戏与安全性
 
@@ -208,7 +208,7 @@ src/main/java/
 src/main/resources/
 MOB_OPERATIONS_26.2.md
 MOBS_26.2.md
-cheekpoint/
+docs/changelog/
 ```
 
 当前工作目录以可运行 JAR、反编译审计结果、字节码补丁工具和说明文档为主，并不是完整的原始 Gradle 源码工程。公开发布前应补齐能够重新构建 `1.0.5` 的完整源码；MPL-2.0 要求分发 JAR 等可执行形式时，同时让接收者可以取得对应的源码，并说明源码获取位置。
