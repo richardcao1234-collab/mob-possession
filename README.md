@@ -120,17 +120,6 @@ Minecraft Java 26.2 中注册的 **90 种 Mob 均可附身**。苦力怕、末�
 - [Minecraft 26.2 生物注册表与覆盖审计](MOBS_26.2.md)
 - [开发变更记录](docs/changelog/)
 
-## 下载与发布文件
-
-普通玩家只需要从仓库的 **Releases** 页面下载一个与 Minecraft 版本匹配的 `1.0.5` JAR。不要下载 `_tools`、反编译目录或多个 Minecraft 版本的 JAR，也不要同时安装历史版本。
-
-发布者创建 `v1.0.5` Release 时，应把“版本选择”表中的 9 个 JAR 作为 Release 附件，而不是全部提交到 Git 历史中。Release 说明应明确指出：
-
-```text
-When this release is published, the corresponding source code will be available from the `v1.0.5` tag in this repository.
-Licensed under MPL-2.0.
-```
-
 ## 版本变化
 
 ### 1.0.5
