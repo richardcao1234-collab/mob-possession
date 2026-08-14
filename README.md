@@ -183,6 +183,3 @@ Minecraft Java 26.2 中注册的 **90 种 Mob 均可附身**。苦力怕、末�
 
 本项目采用 [Mozilla Public License 2.0](https://www.mozilla.org/MPL/2.0/)，SPDX 标识为 `MPL-2.0`。发布源码时应保留许可证通知；发布 JAR 时应同时说明对应源代码的获取方式。提交第三方代码、资源或衍生内容前，请自行确认许可证兼容性。
 
-## 免责声明
-
-本项目不是 Mojang Studios 或 Microsoft 的官方项目，也未获得其认可。Minecraft 是 Microsoft 旗下 Mojang Studios 的商标。
